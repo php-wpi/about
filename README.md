@@ -5,10 +5,10 @@
 This is a initiative to develop Open Source Projects for solving World Problems using PHP.
 
 
-Do you want to help developing open source projects? Subscribe here: (https://goo.gl/forms/XvIjuhwrNqaMRtQx1)[https://goo.gl/forms/XvIjuhwrNqaMRtQx1]
+Do you want to help developing open source projects? Subscribe here: [https://goo.gl/forms/XvIjuhwrNqaMRtQx1](https://goo.gl/forms/XvIjuhwrNqaMRtQx1)
 
 
-Do you have some idea? Share with us: (https://goo.gl/forms/32bqco1eTZaoBB2n2)[https://goo.gl/forms/32bqco1eTZaoBB2n2]
+Do you have some idea? Share with us: [https://goo.gl/forms/32bqco1eTZaoBB2n2](https://goo.gl/forms/32bqco1eTZaoBB2n2)
 
 
-Do you want to sponsor the initiative? Contact us: gabriel@phpsp.org.br
+Do you want to sponsor the initiative? Contact us: [gabriel@phpsp.org.br](mailto:gabriel@phpsp.org.br)
