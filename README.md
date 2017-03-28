@@ -1,6 +1,6 @@
 # PHP - World Problems Initiative
 
-<p align="center"><img src="https://cloud.githubusercontent.com/assets/2197005/24422462/00569efc-13d0-11e7-8e4a-4531979f0498.jpg" width="560" alt="Elephants" /></p>
+<p align="center"><img src="https://cloud.githubusercontent.com/assets/2197005/24422462/00569efc-13d0-11e7-8e4a-4531979f0498.jpg" alt="Elephants" /></p>
 
 This is a initiative to develop Open Source Projects for solving World Problems using PHP.
 
